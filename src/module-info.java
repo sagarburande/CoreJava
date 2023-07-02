@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ssaga
+ *
+ */
+module CoreJava {
+}
